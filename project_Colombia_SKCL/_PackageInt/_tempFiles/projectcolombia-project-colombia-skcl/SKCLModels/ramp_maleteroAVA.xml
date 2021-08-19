@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ModelInfo guid="{e8f948a1-fcf8-4b1b-b799-35c0f1500b15}" version="1.1">
-  <LODS>
-    <LOD minSize="6.25" ModelFile="ramp_maleteroAVA_LOD0.gltf"/>
-    <LOD minSize="3.125" ModelFile="ramp_maleteroAVA_LOD1.gltf"/>
-    <LOD minSize="1.171875" ModelFile="ramp_maleteroAVA_LOD2.gltf"/>
-  </LODS>
-</ModelInfo>

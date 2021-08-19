@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ModelInfo guid="{9548dc95-f31d-438f-af21-b3f2e551f296}" version="1.1">
-  <LODS>
-    <LOD minSize="15.625" ModelFile="whiteLight_LOD0.gltf"/>
-    <LOD minSize="7.03125" ModelFile="whiteLight_LOD1.gltf"/>
-    <LOD minSize="3.125" ModelFile="whiteLight_LOD2.gltf"/>
-    <LOD minSize="0.78125" ModelFile="whiteLight_LOD3.gltf"/>
-  </LODS>
-</ModelInfo>

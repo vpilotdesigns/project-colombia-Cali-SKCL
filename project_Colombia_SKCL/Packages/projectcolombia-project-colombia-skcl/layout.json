@@ -8,12 +8,12 @@
     {
       "path": "MaterialLibs/skclmaterial/Library.xml",
       "size": 666,
-      "date": 132703415825537836
+      "date": 132726513194857113
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS",
       "size": 1398276,
-      "date": 132703401744997223
+      "date": 132726513197271273
     },
     {
       "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS.FLAGS",
@@ -23,432 +23,432 @@
     {
       "path": "MaterialLibs/skclmaterial/Textures/Helipad.png.DDS.json",
       "size": 249,
-      "date": 132703401744982205
+      "date": 132726513197261250
     },
     {
       "path": "scenery/airportShape.bgl",
-      "size": 1700,
-      "date": 132703415831017555
+      "size": 1943,
+      "date": 132726513377582922
     },
     {
       "path": "scenery/SKCL-ModelLib.BGL",
       "size": 1265624,
-      "date": 132703415829331101
+      "date": 132726513375996539
     },
     {
       "path": "scenery/SKCL_Scene.bgl",
-      "size": 182625,
-      "date": 132703438968788494
+      "size": 182173,
+      "date": 132726513377532883
     },
     {
       "path": "scenery/texture/CARGA_SKCL_CARGA.PNG.DDS",
       "size": 2796344,
-      "date": 132703401748555566
+      "date": 132726513200859311
     },
     {
       "path": "scenery/texture/CARGA_SKCL_CARGA.PNG.DDS.json",
       "size": 102,
-      "date": 132703401748530545
+      "date": 132726513200834288
     },
     {
       "path": "scenery/texture/CARGA_SKCL_CARGA_LM.PNG.DDS",
       "size": 2796344,
-      "date": 132703401752013539
+      "date": 132726513204327288
     },
     {
       "path": "scenery/texture/CARGA_SKCL_CARGA_LM.PNG.DDS.json",
       "size": 102,
-      "date": 132703401751993517
+      "date": 132726513204307268
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL.PNG.DDS",
       "size": 2796344,
-      "date": 132703401765294953
+      "date": 132726513217598686
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL.PNG.DDS.json",
       "size": 102,
-      "date": 132703401765274935
+      "date": 132726513217578665
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL_LM.PNG.DDS",
       "size": 2796344,
-      "date": 132703401768742914
+      "date": 132726513221141728
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL2_JETWAYSKCL_LM.PNG.DDS.json",
       "size": 102,
-      "date": 132703401768722894
+      "date": 132726513221121708
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL.PNG.DDS",
       "size": 2796344,
-      "date": 132703401772441090
+      "date": 132726513224779849
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL.PNG.DDS.json",
       "size": 102,
-      "date": 132703401772426080
+      "date": 132726513224759832
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL_LM.PNG.DDS",
       "size": 2796344,
-      "date": 132703401775854025
+      "date": 132726513228142740
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_3_JETWAYSKCL_LM.PNG.DDS.json",
       "size": 102,
-      "date": 132703401775834009
+      "date": 132726513228122720
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL.PNG.DDS",
       "size": 2796344,
-      "date": 132703401761621793
+      "date": 132726513213930534
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL.PNG.DDS.json",
       "size": 102,
-      "date": 132703401761601773
+      "date": 132726513213910519
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL_LM.PNG.DDS",
       "size": 2796344,
-      "date": 132703401758103772
+      "date": 132726513210307422
     },
     {
       "path": "scenery/texture/JETWAYS_SKCL_JETWAYSKCL_LM.PNG.DDS.json",
       "size": 102,
-      "date": 132703401758078750
+      "date": 132726513210287407
     },
     {
       "path": "scenery/texture/JETWAYS_STATIC_JETWAYS.PNG.DDS",
       "size": 1398256,
-      "date": 132703401777080077
+      "date": 132726513229418836
     },
     {
       "path": "scenery/texture/JETWAYS_STATIC_JETWAYS.PNG.DDS.json",
       "size": 119,
-      "date": 132703401777065074
+      "date": 132726513229403821
     },
     {
       "path": "scenery/texture/JETWAYS_STATIC_JETWAYS_LM.PNG.DDS",
       "size": 1398256,
-      "date": 132703401778291118
+      "date": 132726513230639884
     },
     {
       "path": "scenery/texture/JETWAYS_STATIC_JETWAYS_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401778276107
+      "date": 132726513230624873
     },
     {
       "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS.PNG.DDS",
       "size": 1398256,
-      "date": 132703401753334675
+      "date": 132726513205633412
     },
     {
       "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS.PNG.DDS.json",
       "size": 119,
-      "date": 132703401753319660
+      "date": 132726513205618394
     },
     {
       "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS_LM.PNG.DDS",
       "size": 1398256,
-      "date": 132703401754615776
+      "date": 132726513206904503
     },
     {
       "path": "scenery/texture/JETWAYSSKCL_ANIMATED_JETWAYS_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401754605766
+      "date": 132726513206889487
     },
     {
       "path": "scenery/texture/RADAR_RADAR.PNG.DDS",
       "size": 349680,
-      "date": 132703401779286974
+      "date": 132726513231635743
     },
     {
       "path": "scenery/texture/RADAR_RADAR.PNG.DDS.json",
       "size": 119,
-      "date": 132703401779281972
+      "date": 132726513231625732
     },
     {
       "path": "scenery/texture/RADAR_RADAR_LM.PNG.DDS",
       "size": 349680,
-      "date": 132703401778761525
+      "date": 132726513231125301
     },
     {
       "path": "scenery/texture/RADAR_RADAR_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401778756519
+      "date": 132726513231115290
     },
     {
       "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS.PNG.DDS",
       "size": 5592560,
-      "date": 132703401786383074
+      "date": 132726513238671781
     },
     {
       "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS.PNG.DDS.json",
       "size": 119,
-      "date": 132703401786348043
+      "date": 132726513238641754
     },
     {
       "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS",
       "size": 5592560,
-      "date": 132703401782779976
+      "date": 132726513235148757
     },
     {
       "path": "scenery/texture/RAMP_CARROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401782744948
+      "date": 132726513235113724
     },
     {
       "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS.PNG.DDS",
       "size": 5592560,
-      "date": 132703401793504191
+      "date": 132726513245857949
     },
     {
       "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS.PNG.DDS.json",
       "size": 119,
-      "date": 132703401793474167
+      "date": 132726513245817916
     },
     {
       "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS",
       "size": 5592560,
-      "date": 132703401789936126
+      "date": 132726513242349942
     },
     {
       "path": "scenery/texture/RAMP_MALETEROAVA_SKBQ_ELEMENTOS_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401789891086
+      "date": 132726513242314906
     },
     {
       "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS.PNG.DDS",
       "size": 5592560,
-      "date": 132703401800670349
+      "date": 132726513252888992
     },
     {
       "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS.PNG.DDS.json",
       "size": 119,
-      "date": 132703401800635321
+      "date": 132726513252848951
     },
     {
       "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS_LM.PNG.DDS",
       "size": 5592560,
-      "date": 132703401797092276
+      "date": 132726513249385982
     },
     {
       "path": "scenery/texture/RAMP_PORTALATAAVA_SKBQ_ELEMENTOS_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401797057243
+      "date": 132726513249350948
     },
     {
       "path": "scenery/texture/SKCL_ENV_SKCL_ENV.PNG.DDS",
       "size": 349680,
-      "date": 132703401801901407
+      "date": 132726513254065000
     },
     {
       "path": "scenery/texture/SKCL_ENV_SKCL_ENV.PNG.DDS.json",
       "size": 119,
-      "date": 132703401801891397
+      "date": 132726513254054988
     },
     {
       "path": "scenery/texture/SKCL_ENV_SKCL_ENV_LM.PNG.DDS",
       "size": 349680,
-      "date": 132703401801466035
+      "date": 132726513253629626
     },
     {
       "path": "scenery/texture/SKCL_ENV_SKCL_ENV_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401801456026
+      "date": 132726513253619614
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03.PNG.DDS",
       "size": 22369776,
-      "date": 132703401853023626
+      "date": 132726513304912907
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03.PNG.DDS.json",
       "size": 119,
-      "date": 132703401852908530
+      "date": 132726513304807821
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03_LM.PNG.DDS",
       "size": 22369776,
-      "date": 132703401814685340
+      "date": 132726513266880788
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_03_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401814570242
+      "date": 132726513266765693
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04.PNG.DDS",
       "size": 22369776,
-      "date": 132703401840064157
+      "date": 132726513291937309
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04.PNG.DDS.json",
       "size": 119,
-      "date": 132703401839949057
+      "date": 132726513291817200
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04_LM.PNG.DDS",
       "size": 22369776,
-      "date": 132703401827471330
+      "date": 132726513279571687
     },
     {
       "path": "scenery/texture/TERMINAL_INTERV4_SKCL_TERMV4_04_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401827356228
+      "date": 132726513279451582
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01.PNG.DDS",
       "size": 22369776,
-      "date": 132703401866114653
+      "date": 132726513317955551
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01.PNG.DDS.json",
       "size": 119,
-      "date": 132703401865994548
+      "date": 132726513317840458
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01_LM.PNG.DDS",
       "size": 22369776,
-      "date": 132703401904163066
+      "date": 132726513355473908
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_01_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401904047966
+      "date": 132726513355353814
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02.PNG.DDS",
       "size": 22369776,
-      "date": 132703401891290980
+      "date": 132726513343197412
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02.PNG.DDS.json",
       "size": 119,
-      "date": 132703401891175880
+      "date": 132726513343082315
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02_LM.PNG.DDS",
       "size": 22369776,
-      "date": 132703401878360175
+      "date": 132726513330251109
     },
     {
       "path": "scenery/texture/TERMINAL_NALV4_SKCL_TERMV4_02_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401878245078
+      "date": 132726513330141017
     },
     {
       "path": "scenery/texture/VEHICULO_VEHICULOS_01.PNG.DDS",
       "size": 1398256,
-      "date": 132703401905549255
+      "date": 132726513356810056
     },
     {
       "path": "scenery/texture/VEHICULO_VEHICULOS_01.PNG.DDS.json",
       "size": 119,
-      "date": 132703401905534242
+      "date": 132726513356795043
     },
     {
       "path": "scenery/texture/VEHICULO_VEHICULOS_01_LM.PNG.DDS",
       "size": 1398256,
-      "date": 132703401906750289
+      "date": 132726513358001084
     },
     {
       "path": "scenery/texture/VEHICULO_VEHICULOS_01_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401906735273
+      "date": 132726513357981058
     },
     {
       "path": "scenery/texture/WHITECENTER_SKBQ_LUCES.PNG.DDS",
       "size": 5592560,
-      "date": 132703401910278319
+      "date": 132726513361529106
     },
     {
       "path": "scenery/texture/WHITECENTER_SKBQ_LUCES.PNG.DDS.json",
       "size": 119,
-      "date": 132703401910243286
+      "date": 132726513361484069
     },
     {
       "path": "scenery/texture/WHITECENTER_SKBQ_LUCES_LM.PNG.DDS",
       "size": 5592560,
-      "date": 132703401913721277
+      "date": 132726513365117191
     },
     {
       "path": "scenery/texture/WHITECENTER_SKBQ_LUCES_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401913686251
+      "date": 132726513365082155
     },
     {
       "path": "scenery/texture/WHITELIGHT_DUMMY.PNG.DDS",
       "size": 312,
-      "date": 132703401914822226
+      "date": 132726513366228145
     },
     {
       "path": "scenery/texture/WHITELIGHT_DUMMY.PNG.DDS.json",
       "size": 102,
-      "date": 132703401914817222
+      "date": 132726513366223140
     },
     {
       "path": "scenery/texture/WHITELIGHT_LAMPFLOOR.PNG.DDS",
       "size": 22000,
-      "date": 132703401914231718
+      "date": 132726513365637637
     },
     {
       "path": "scenery/texture/WHITELIGHT_LAMPFLOOR.PNG.DDS.json",
       "size": 119,
-      "date": 132703401914226711
+      "date": 132726513365627627
     },
     {
       "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES.PNG.DDS",
       "size": 5592560,
-      "date": 132703401923254472
+      "date": 132726513374680402
     },
     {
       "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES.PNG.DDS.json",
       "size": 119,
-      "date": 132703401923214438
+      "date": 132726513374635362
     },
     {
       "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES_LM.PNG.DDS",
       "size": 5592560,
-      "date": 132703401919816513
+      "date": 132726513371252460
     },
     {
       "path": "scenery/texture/WHITELIGHT_SKBQ_LUCES_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401919781487
+      "date": 132726513371217428
     },
     {
       "path": "scenery/texture/WHITELIGHT_WHITELIGHTEFFECT.PNG.DDS",
       "size": 349672,
-      "date": 132703401916173386
+      "date": 132726513367544277
     },
     {
       "path": "scenery/texture/WHITELIGHT_WHITELIGHTEFFECT.PNG.DDS.json",
       "size": 102,
-      "date": 132703401916163375
+      "date": 132726513367534261
     },
     {
       "path": "scenery/texture/WHITELIGHT_WHITEYELLOW_LIGHT_LM.PNG.DDS",
       "size": 349680,
-      "date": 132703401914692114
+      "date": 132726513366088023
     },
     {
       "path": "scenery/texture/WHITELIGHT_WHITEYELLOW_LIGHT_LM.PNG.DDS.json",
       "size": 119,
-      "date": 132703401914687112
+      "date": 132726513366078012
     },
     {
       "path": "scenery/texture/WHITELIGHT_YELLOWLIGHTEFFECT.PNG.DDS",
       "size": 349672,
-      "date": 132703401915522826
+      "date": 132726513366928744
     },
     {
       "path": "scenery/texture/WHITELIGHT_YELLOWLIGHTEFFECT.PNG.DDS.json",
       "size": 102,
-      "date": 132703401915512816
+      "date": 132726513366918734
     }
   ]
 }
